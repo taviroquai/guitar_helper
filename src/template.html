@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./output.css" rel="stylesheet" />
+    <script src="./main.js" type="text/javascript"></script>
+
+    <title>{{ title }}</title>
+    
+  </head>
+  <body class="p-4 bg-black text-white">
+    <section id="index">
+
+      <h3 class="fixed pb-6 text-3xl font-bold underline">
+        {{ title }}
+      </h3>
+      
+      <ul class="pt-16 text-sm grid grid-cols-3 gap-2">
+        {{#each songs }}
+          <li>
+            <a href="#i{{@index}}" onClick="showSong('i{{@index}}')" class="block px-2 w-full">
+              {{ this.Song }}
+            </a>
+        </li>
+        {{/each}}
+      </ul>
+      
+    </section>
+
+    <div class="text-5xl">
+      {{#each songs}}
+        <section id="i{{@index}}" class="song hidden">
+          <h4 class="fixed text-yellow-400">{{ this.Song }}</h4>
+          <div class="pt-16">{{{ this.Chords }}}</div>
+        </section>
+      {{/each}}
+    </div>
+
+    <a href="#index" class="fixed top-4 right-4 text-5xl text-red-500" onclick="showIndex()">☰</a>
+    
+  </body>
+</html>
