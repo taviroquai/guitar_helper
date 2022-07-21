@@ -1,18 +1,21 @@
 # guitar_helper
 Guitar Helper to display chords for songs defined in a CSV file.  
 
-Done this as I needed to have the songs in my Google Drive as Google Sheet format, but to visualize when performing, I need a decent display.
+Done this as I needed to have the songs in my Google Drive as Google Sheet format, but to visualize when performing, I need a decent display to see on my mobile phone.
 
 ## TL;DR
 You can see the final result in here -> http://guitar.afonsodev.eu/  
 BTW: no ReactJs, simpler build...
 
+![GitHub Logo](assets/index.png)
+![GitHub Logo](assets/song.png)
+
 ### Step 1 - Create a CSV (comma separated values) file containing two columns: Song and Chords
 Add songs to your file.   
 Example:
 ```csv
-Song;Chords
-"Have You Ever Seen The Rain","Intro: Am F C, Verses: C G C, Refrão: F G C"
+Song,Chords
+"Have You Ever Seen The Rain","Intro: Am F C, Verses: C G C, Chorus: F G C"
 ```
 Save it in your dropbox (or any other cloud accessible storage) and get the link. 
 
