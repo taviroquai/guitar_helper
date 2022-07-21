@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node src\\index.js",
-    "build:all": "node src\\index.js && npx tailwindcss -i ./src/input.css -o ./public_html/output.css",
+    "build": "node src/index.js",
+    "build:all": "node src/index.js && npx tailwindcss -i ./src/input.css -o ./public_html/output.css",
     "serve": "serve public_html/",
+    "deploy": "cp -r public_html ..",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
