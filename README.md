@@ -41,3 +41,8 @@ For me, I'm running ```npm run deploy``` on my server
 
 ### Step 6 - Done!
 Open your site url and enjoy the Guitar Helper
+
+## Sync Songs Updates
+To update the build:
+1. Run ```npm run build:all```
+2. Deploy ```npm run deploy```
