@@ -5,7 +5,7 @@ Done this as I needed to have the songs in my Google Drive as Google Sheet forma
 
 ## TL;DR
 You can see the final result in here -> http://guitar.afonsodev.eu/  
-BTW: no ReactJs, simpler build...
+BTW: done with SvelteJs
 
 ![GitHub Logo](assets/index.png)
 ![GitHub Logo](assets/song.png)
