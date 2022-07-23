@@ -1,0 +1,137 @@
+[
+  {
+    "ID": "all-of-me",
+    "Song": "All of Me",
+    "Chords": "F7+      A7      D7       Gm <br />A7        Dm        G7        Gm7 C7 <br />F7+       A7       D7       Gm <br />Bb         Bbm       F7+       D7         Gm7      C7 <br />(F6       D7    Gm7      C7)"
+  },
+  {
+    "ID": "angel",
+    "Song": "Angel",
+    "Chords": "Intro: C     Fmaj7 (2x) <br />Versos: Dm     F     C     G <br />Refrão: C     Em     F     C     G"
+  },
+  {
+    "ID": "cant-help-falling-in-love",
+    "Song": "Can’t Help Falling in Love",
+    "Chords": "C     Em    Am     F     Em      G        F      G    Am    F     C    G     C <br />Ponte:    Em     B7    (2x)    E   A7   Dm    G7"
+  },
+  {
+    "ID": "crazy-little-thing-called-love",
+    "Song": "Crazy Little Thing Called Love",
+    "Chords": "Versos: E     A     D     A <br />Ponte:     A     D     A     C    F#   B <br />(E Eb D B Bb A)   B    E"
+  },
+  {
+    "ID": "dont-cry-for-louie",
+    "Song": "Don’t Cry for Louie",
+    "Chords": "Em     (c/ baixo E  F# G   B) <br />Am    (B   C    E) <br />B    E     B7"
+  },
+  {
+    "ID": "dont-speak",
+    "Song": "Don’t Speak",
+    "Chords": "Bm      F#m     Em    A    F#m      Em    A <br />Refrão:    Em     Am     D    B      Am7    B     Em     Am     B <br />Ponte:     C     G      Bb      F     Ab      G"
+  },
+  {
+    "ID": "hallelujah",
+    "Song": "Hallelujah",
+    "Chords": "F     Dm    (2x)     Bb    C    F     C <br />Refrão: F    Dm    (2x)    F   C   F    Dm <br />Outro:   G    Em    (2x)    C   D    G    D <br />G    C   D    Em    C    D    B7    Em <br />C    Em     C      G    D    (G)"
+  },
+  {
+    "ID": "hidding-my-heart-adele",
+    "Song": "Hidding My Heart – Adele",
+    "Chords": "Intro: C     F (2x) <br />Versos: C    G     Am    G     F    C     Am    G <br />Refrão: Dm    G    C    Am"
+  },
+  {
+    "ID": "i-dont-want-to-miss-a-thing",
+    "Song": "I Don’t Want to Miss a Thing",
+    "Chords": "(malha) <br />Bm    C#m     E <br />Verse: D      D/C#    Bm     G     D/F#    Em    A (2x)     D/F#    G     A <br />Refrão: D    A/C#     Em     G     A4 <br />Ponte: C    G    Bb    F    C     G     Bb     A"
+  },
+  {
+    "ID": "its-my-life-bon-jovi",
+    "Song": "It’s My Life - Bon Jovi",
+    "Chords": "Dm     Bb     C     Gm <br />Refrão:     Dm     Bb     F     C <br />Dm     Bb      C"
+  },
+  {
+    "ID": "joseph-joseph",
+    "Song": "Joseph, Joseph",
+    "Chords": "Am       E7         Am     Am       A7 <br />Dm       Am         F7         E7       Am"
+  },
+  {
+    "ID": "killing-me-softly",
+    "Song": "Killing me Softly",
+    "Chords": "Em    Am    D     G     Em    A     D    C     G     C    F    E <br /> <br />Am   D    G    C    Am    D    Em    Am    D    G     B7"
+  },
+  {
+    "ID": "one-year-of-love",
+    "Song": "One Year of Love",
+    "Chords": "C     G/B     Am     F      G <br />Reftão:     Am      Em      (3x)      F      G       F      G"
+  },
+  {
+    "ID": "over-the-rainbow",
+    "Song": "Over the Rainbow",
+    "Chords": "A     C#m    Dmaj7      C#m     Bm     A     Bm7 E7     A <br />Ponte:     A      Bm      E    A      B      E7"
+  },
+  {
+    "ID": "price-tag",
+    "Song": "Price Tag",
+    "Chords": "E    G#m    C#m     A"
+  },
+  {
+    "ID": "shallow",
+    "Song": "Shallow",
+    "Chords": "Versos: E    D/F#   G    C    G   D/F# <br />Refrão:     Am     D/F#   G    D   Em <br />Outro:    Bm     D     A     E Bm    D    A"
+  },
+  {
+    "ID": "she-used-to-be-mine",
+    "Song": "She Used to Be Mine",
+    "Chords": "F           C          Dm           Bb <br />Outro: F          A7        Dm          Bb"
+  },
+  {
+    "ID": "someone-like-you",
+    "Song": "Someone Like You",
+    "Chords": "Versos:    A     C#m/G#     F#m     D <br />Ponte:    E      F#m     D    D <br />Refrão:     A     E     F#m  D"
+  },
+  {
+    "ID": "summertime",
+    "Song": "Summertime",
+    "Chords": "Am7 Bm7  (repeat) <br />Dm        Dm/C        E7         Am7       Bm7      (repete) <br />C7M      B7      E7"
+  },
+  {
+    "ID": "sweet-dreams-seven-nation",
+    "Song": "Sweet Dreams + Seven Nation",
+    "Chords": "Cm     Ab    G"
+  },
+  {
+    "ID": "time-after-time",
+    "Song": "Time After Time",
+    "Chords": "F  G  Em  C (2x) <br />Versos: Dm/C    C    (repete) <br />F   G      Em   F    G     Em      F   G      Em  F     F    C    Refrão: G     Am     F   G      C"
+  },
+  {
+    "ID": "to-make-you-feel-my-love",
+    "Song": "To Make You Feel My Love",
+    "Chords": "Versos: B     F#     A     E     Em     B     C#7    F#     B <br />Refrão:  E    B     D#7    E    B    C#7    F#7"
+  },
+  {
+    "ID": "too-much-love-will-kill-you",
+    "Song": "Too Much Love Will Kill You",
+    "Chords": "Intro: G     D    C    (2x) <br />Versos:     G    CG     Em      D      C       Am     Em     Am     Em       D <br />Refrão:      G     C     Em    D (2x)     G      C     D      D#dim    G C D G"
+  },
+  {
+    "ID": "unchained-melody",
+    "Song": "Unchained Melody",
+    "Chords": "C    Am    F     G     C     Am     G     Am   Em     F     G     C    C7"
+  },
+  {
+    "ID": "what-a-wonderful-world",
+    "Song": "What a Wonderful World",
+    "Chords": "C    Em    F     Em     Dm7     C     E7     Am     Ab     Dm7    G7     (C     Dm   F   G7) <br />Ponte: G    C    Dm     C    Am    Em   Am    Em    Am    C#º    Dm   G7 <br />Final:  Ab    Dm G7 C  Emb5  A7     Dm   G7    C"
+  },
+  {
+    "ID": "whats-up",
+    "Song": "What’s Up?",
+    "Chords": "A       Bm       D        A"
+  },
+  {
+    "ID": "zombie",
+    "Song": "Zombie",
+    "Chords": "E     C      G       D/F#"
+  }
+]
