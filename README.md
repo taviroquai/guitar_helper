@@ -30,9 +30,10 @@ $ npm install
 Edit .env and set the CSV file link. It will be downloaded and parsed
 
 ### Step 4 - Build the webpage
-Web page is built using handlebars and tailwind
+Web page is built using Svelte, vite/rollup and tailwind
 ```
-$ npm run build:all
+$ npm run cache:data
+$ npm run build
 ```
 
 ### Step 5 - Deploy folder public_html
@@ -44,5 +45,6 @@ Open your site url and enjoy the Guitar Helper
 
 ## Sync Songs Updates
 To update the build:
-1. Run ```npm run build:all```
-2. Deploy ```npm run deploy```
+1. Run ```npm run cache:data```
+2. Run ```npm run build```
+3. Deploy ```npm run deploy```
