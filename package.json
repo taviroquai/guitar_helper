@@ -7,7 +7,8 @@
     "cache:data": "node src/update.cjs",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "cp -R dist/. ../public_html/."
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
