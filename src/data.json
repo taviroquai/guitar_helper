@@ -2,12 +2,12 @@
   {
     "ID": "all-of-me",
     "Song": "All of Me",
-    "Chords": "F7+      A7      D7       Gm <br />A7        Dm        G7        Gm7 C7 <br />F7+       A7       D7       Gm <br />Bb         Bbm       F7+       D7         Gm7      C7 <br />(F6       D7    Gm7      C7)"
+    "Chords": "F7+      A7      D7       Gm <br />A7        Dm        G7        Gm7 C7 <br />F7+       A7       D7       Gm <br />Bb         Bbm       F7+       D7         Gm7      C7 <br />(F6       D7    Gm7      C7) <br />Final: relentando"
   },
   {
     "ID": "angel",
     "Song": "Angel",
-    "Chords": "Intro: C     Fmaj7 (2x) <br />Versos: Dm     F     C     G <br />Refrão: C     Em     F     C     G"
+    "Chords": "Intro: C     Fmaj7 (2x) <br />Versos: Dm     F     C     G <br />Refrão: C     Em     F     C     G <br />Final: F    C    G     C      F     C     F    C"
   },
   {
     "ID": "cant-help-falling-in-love",
@@ -27,7 +27,7 @@
   {
     "ID": "dont-speak",
     "Song": "Don’t Speak",
-    "Chords": "Bm      F#m     Em    A    F#m      Em    A <br />Refrão:    Em     Am     D    B      Am7    B     Em     Am     B <br />Ponte:     C     G      Bb      F     Ab      G"
+    "Chords": "Bm      F#m     Em    A    F#m      Em    A <br />Refrão:    Em     Am     D    B      Am7    B     Em     Am     B <br />Ponte:     C     G      Bb      F     Ab      G <br />Final: Bm    F#m    Em    A"
   },
   {
     "ID": "hallelujah",
@@ -47,7 +47,7 @@
   {
     "ID": "its-my-life-bon-jovi",
     "Song": "It’s My Life - Bon Jovi",
-    "Chords": "Dm     Bb     C     Gm <br />Refrão:     Dm     Bb     F     C <br />Dm     Bb      C"
+    "Chords": "C#m     A     B     F#m <br />Refrão:     C#m     A     E     B <br />C#m     A      B"
   },
   {
     "ID": "joseph-joseph",
@@ -87,7 +87,7 @@
   {
     "ID": "someone-like-you",
     "Song": "Someone Like You",
-    "Chords": "Versos:    A     C#m/G#     F#m     D <br />Ponte:    E      F#m     D    D <br />Refrão:     A     E     F#m  D"
+    "Chords": "Versos:    A     C#m/G#     F#m     D <br />Ponte:    E      F#m     D    D <br />Refrão:     A     E     F#m  D <br />Outro: Bm    F#m/C#    D    D Bm   F#m/C#   D    E"
   },
   {
     "ID": "summertime",
