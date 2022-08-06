@@ -4,7 +4,7 @@
   export let selected
 </script>
 
-<div class="text-5xl">
+<div class="text-4xl">
 
   {#if selected }
     <section id="{selected.ID}" class="song" in:fade>

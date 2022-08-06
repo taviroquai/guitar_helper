@@ -10,7 +10,8 @@ function parse(filename, cb) {
   };
    
   let songs = csvjson.toObject(data, options);
-  songs = songs.filter(i => !!i.Song).sort((a, b) => a.Song > b.Song ? 1 : -1);
+  songs = songs.filter(i => !!i.Song);
+  //.sort((a, b) => a.Song > b.Song ? 1 : -1);
   songs = songs.map(cb);
   console.log('Songs:', songs.length);
   return songs;

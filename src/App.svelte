@@ -24,7 +24,7 @@
 
 </script>
 
-<main class="h-screen p-4 bg-black text-white">
+<main class="p-4 text-white">
   
   <SongIndex title={title} songs={songs} {selected} {showSong} />
   <Song {selected} />
