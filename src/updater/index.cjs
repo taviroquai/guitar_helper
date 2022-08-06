@@ -1,8 +1,8 @@
 require('dotenv').config()
 const slugify = require('slugify');
-const download = require('./utils/download/index.cjs');
-const parse = require('./utils/parse/index.cjs');
-const cache = require('./utils/cache/index.cjs');
+const download = require('./download/index.cjs');
+const parse = require('./parse/index.cjs');
+const cache = require('./cache/index.cjs');
 
 const slugifyOptions = {
   replacement: '-',   // replace spaces with replacement character, defaults to `-`

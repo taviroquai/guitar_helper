@@ -1,10 +1,10 @@
 <script>
   import { onDestroy } from 'svelte'
-  import { selectSong } from './stores.js'
+  import { selectSong } from './stores'
 
-  import SongIndex from './SongIndex.svelte';
-  import Song from './Song.svelte';
-  import IndexButton from './IndexButton.svelte';
+  import SongIndex from './lib/SongIndex.svelte'
+  import Song from './lib/Song.svelte'
+  import IndexButton from './lib/IndexButton.svelte'
 
   export let title
   export let songs
