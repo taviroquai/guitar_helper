@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "cp -R dist/. ../public_html/."
+    "deploy": "cp -R public_html/. ../public_html/.",
+    "update": "npm run cache:data && npm run build && npm run deploy"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",

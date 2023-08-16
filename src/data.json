@@ -1,162 +1,282 @@
 [
   {
-    "ID": "joseph-joseph-k",
-    "Song": "Joseph, Joseph - K",
-    "Chords": "(dedilhado c/ ritmo) <br />Am       E7         Am     Am       A7 <br />Dm       Am         F7         E7       Am"
+    "ID": "angel",
+    "Song": "Angel",
+    "Chords": "Estr: I AAB AAB <br /> <br />Intro: C     Fmaj7 (2x) <br /> <br />Versos: Dm     F     C     G <br /> <br />Refrão: C     Em     F     C     G <br /> <br />Final: F    C    G     C      F     C     F    C <br /> <br />",
+    "Lyrics": "In the arms of the angel <br />Fly away from here <br />From this dark cold hotel room <br />And the endlessness that you fear <br />You are pulled from the <br />wreckage <br />Of your silent reverie <br />You're in the arms of the angel <br />May you find some comfort here",
+    "Tipo": ""
   },
   {
     "ID": "what-a-wonderful-world",
     "Song": "What a Wonderful World",
-    "Chords": "C    Em    F     Em     Dm7     C     E7     Am <br />Ab     Dm7    G7     (C     Dm   F   G7) <br />Ponte: G    C    Dm     C <br />Am    Em   Am    Em    Am    C#º    Dm   G7 <br />Final:  Ab    Dm G7 C  C7/E  A7     Dm   G7    C"
+    "Chords": "Estr: I AAB AC <br /> <br />Intro: C... <br /> <br />Verses: <br />C    Em    F     Em     Dm7     C     E7     Am <br />Ab     Dm7    G7     (C     F#º7   F   G7) <br /> <br />Ponte: <br />G    C    Dm     C <br />Am    Em   Am    Em <br />Am    C#º    Dm   G7 <br /> <br />Coda: <br />Ab    Dm G7 C  C7  A7     Dm   G7    C",
+    "Lyrics": "",
+    "Tipo": "jazz 65"
   },
   {
-    "ID": "hallelujah",
-    "Song": "Hallelujah",
-    "Chords": "F     Dm    (2x)     Bb    C    F     C <br />Refrão: F    Dm    (2x)    F   C   F    Dm <br />Outro:   G    Em    (2x)    C   D    G    D <br />G    C   D    Em    C    D    B7    Em <br />C    Em     C      G    D    (G)"
+    "ID": "sweet-dreams-seven-nation-swing",
+    "Song": "Sweet Dreams + Seven Nation (Swing)",
+    "Chords": "Estr: I AAB AAB AA I <br /> <br />Dm     Bb    A7",
+    "Lyrics": "",
+    "Tipo": "jazz 100"
   },
   {
-    "ID": "all-of-me-k",
-    "Song": "All of Me - K",
-    "Chords": "F7+      A7      D7       Gm <br />A7        Dm        G7        Gm7 C7 <br />F7+       A7       D7       Gm <br />Bb         Bbm       F7+       D7         Gm7      C7 <br />(F6       D7    Gm7      C7) <br />Final: relentando"
+    "ID": "i-wanna-be-loved-by-you",
+    "Song": "I Wanna Be Loved By You",
+    "Chords": "Estr: I AAB (S) ABA <br /> <br />Intro: F <br />Versos: <br />F    D7    G    C    C7    F    Gm    C <br />F    D7    G    C    C7    F    F7 <br /> <br />Ponte: <br />Bb   Bbm    F    F7    Bb    G    C   C7",
+    "Lyrics": "",
+    "Tipo": "jazz 130"
   },
   {
-    "ID": "summertime-k",
-    "Song": "Summertime - K",
-    "Chords": "(balada c/ marcação) <br />Am7 Bm7  (repeat) <br />Dm        Dm/C        E7         Am7       Bm7      (repete) <br />C7M      B7      E7"
+    "ID": "all-of-me",
+    "Song": "All of Me",
+    "Chords": "Estr: AB (S) AB <br /> <br />Intro (final) <br /> <br />Parte A: <br />F7+      A7      D7       Gm <br />A7        Dm        G7        Gm7 C7 <br /> <br />Parte B: <br />F7+       A7       D7       Gm <br />Bb         Bbm       F7+       D7         Gm7      C7 <br />(F6       D7    Gm7      C7) <br /> <br />Final: relentando",
+    "Lyrics": "",
+    "Tipo": "jazz 120"
   },
   {
-    "ID": "cant-help-falling-in-love",
-    "Song": "Can’t Help Falling in Love",
-    "Chords": "C     Em    Am     F     Em      G        F      G    Am    F     C    G     C <br />Ponte:    Em     B7    (2x)    E   A7   Dm    G7"
+    "ID": "la-vie-en-rose",
+    "Song": "La Vie En Rose",
+    "Chords": "Estr: I AB (S) AB <br /> <br />(intro a capela) <br /> <br />Verses: <br />G    Bm/G    Am    D7 <br />Am7    D7    Am7    D7    G    D7 <br />G    Bm/G    Am    C <br />Cm    Bm   Am   D7",
+    "Lyrics": "",
+    "Tipo": "jazz 65"
   },
   {
-    "ID": "angel",
-    "Song": "Angel",
-    "Chords": "Intro: C     Fmaj7 (2x) <br />Versos: Dm     F     C     G <br />Refrão: C     Em     F     C     G <br />Final: F    C    G     C      F     C     F    C"
+    "ID": "crasy",
+    "Song": "Crasy",
+    "Chords": "Estr: I AA B AA I <br /> <br />Intro / Verses: <br />A   (A/G)    F#    Bm   F#7   Bm <br />E7...   A   Bbdim Bm7  E7 <br /> <br />Ponte: <br />D    A   A7   B7   E  Bm7   E7 <br /> <br />Coda:  A     (A AG/G)    F#7      Bm <br />D     C#m      Bm     F#7    Bm7 <br />E7    A     D A E7 A",
+    "Lyrics": "",
+    "Tipo": "jazz 75"
   },
   {
-    "ID": "over-the-rainbow",
-    "Song": "Over the Rainbow",
-    "Chords": "A     C#m    Dmaj7      C#m     Bm     A     Bm7 E7     A <br />Ponte:     A      Bm      E    A      B      E7"
+    "ID": "quica-quica-quica",
+    "Song": "Quiça Quiça Quiça",
+    "Chords": "Estr: I AAB A(S)B AF <br /> <br />Intro (uma volta) <br /> <br />Verses: <br />Am    Dm    Am    Dm    Am   Am    E7    Am <br /> <br />Refrão: E7   A (3x)",
+    "Lyrics": "",
+    "Tipo": "bossa 105"
   },
   {
     "ID": "besame-mucho",
     "Song": "Besame Mucho",
-    "Chords": "Am    Dm    Dm  DmMaj7    Dm7  E7   Am <br />A7    Dm    Am   B7     E7    Am <br />Ponte:    Dm    Am    E    Am A7 <br />Dm   Am   B7   E"
+    "Chords": "Estr: B A B A <br /> <br />Verses: <br />Am    Dm    Dm  DmMaj7    Dm7  E7   Am <br />A7    Dm    Am   B7     E7    Am <br /> <br />Ponte: <br />Dm    Am    E    Am A7 <br />Dm   Am   B7   E",
+    "Lyrics": "",
+    "Tipo": "bossa 120"
   },
   {
-    "ID": "unchained-melody",
-    "Song": "Unchained Melody",
-    "Chords": "C    Am    F     G     C     Am     G (2x) <br />C    G    Am   Em     F     G     C    C7 <br />F     G     F    Eb    F   G    C (2x)"
+    "ID": "stand-by-me",
+    "Song": "Stand by Me",
+    "Chords": "Estr: AAB AABBB <br /> <br />Intro: (inst.) BB, <br />Versos: <br />A... F#m... D... E... A... E7",
+    "Lyrics": "",
+    "Tipo": "bossa 120"
   },
   {
-    "ID": "whats-up",
-    "Song": "What’s Up?",
-    "Chords": "A       Bm       D        A"
+    "ID": "sway",
+    "Song": "Sway",
+    "Chords": "Estr: AAB AB AA <br /> <br />Intro/Versos: <br />Am7b5   D7  Am7b5   D7    Gm    Gm <br /> <br />Ponte: <br />F    Bb    D7     Ebmaj7   D7 <br /> <br />",
+    "Lyrics": "When marimba rhythms start to play <br />Dance with me make me sway <br />Like a lazy ocean hugs the shore <br />Hold me close sway me more <br />Like a flower bending in the breeze. Bend with me sway with ease <br />When we dance you have a way with me <br />Stay with me sway with me",
+    "Tipo": "bossa 120"
   },
   {
-    "ID": "dont-cry-for-louie-k",
-    "Song": "Don’t Cry for Louie - K",
-    "Chords": "Em     (c/ baixo E  F# G   B) <br />Am    (B   C    E) <br />B    E     B7"
+    "ID": "diamonds",
+    "Song": "Diamonds",
+    "Chords": "Estr: I AB AB AB C <br /> <br />Intro: <br />C    Fm    C    Fm    C    Fm    C <br /> <br />Versos: <br />C    G7.... Dm    D7    G7 <br />C    G7    C    A7    D7    G <br />C    Cmaj7    C7    A7... <br />D7 G7 C... G7 <br /> <br />Coda: <br />F... Fm... C A7 <br />F   G7! (baixo) G C",
+    "Lyrics": "",
+    "Tipo": "2ndline 100"
   },
   {
-    "ID": "call-me",
-    "Song": "Call Me",
-    "Chords": "Intro/Refrão:     Am      C       Dm      F <br />Versos: Am    F (3x)     Dm     E    (2x) <br />Refrão:     Am      C       Dm      F <br />Ponte:  Bm      F#m  (2x)       C      G      Am       F       Dm       E"
+    "ID": "dont-cry-for-louie",
+    "Song": "Don’t Cry for Louie",
+    "Chords": "Estr: I AABB AABB <br /> <br />Versos: <br />Em     (c/ baixo E  F# G   B) <br />Am    (B   C    E) <br />B    E     B7",
+    "Lyrics": "",
+    "Tipo": "2ndline 100"
   },
   {
-    "ID": "dont-speak",
-    "Song": "Don’t Speak",
-    "Chords": "Bm      F#m     Em    A    F#m      Em    A <br />Refrão:    Em     Am     D    B      Am7    B     Em     Am     B <br />Ponte:     C     G      Bb      F     Ab      G <br />Final: Bm    F#m    Em    A"
+    "ID": "joseph-joseph-k",
+    "Song": "Joseph, Joseph - K",
+    "Chords": "Estr: I AB (S) AB F <br /> <br />Intro (strumming) <br /> <br />Verses: <br />Am       E7         Am     Am       A7 <br />Dm       Am         F7         E7       Am",
+    "Lyrics": "",
+    "Tipo": "2ndline 120"
   },
   {
     "ID": "hidding-my-heart",
     "Song": "Hidding My Heart",
-    "Chords": "Intro: C     F (2x) <br />Versos: C    G     Am    G     F    C     Am    G <br />Refrão: Dm    G    C    Am"
-  },
-  {
-    "ID": "killing-me-softly",
-    "Song": "Killing me Softly",
-    "Chords": "(3 versos) <br />Em    Am    D     G     Em    A     D    C     G     C    F    E <br />Am   D    G    C    Am    D    Em    Am    D    G     B7"
-  },
-  {
-    "ID": "time-after-time",
-    "Song": "Time After Time",
-    "Chords": "(3 refrões) <br />F  G  Em  C (2x) <br />Versos: Dm/C    C    (repete) <br />F   G      Em   F    G     Em      F   G      Em  F     F    C    Refrão: G     Am     F   G      C"
-  },
-  {
-    "ID": "one-year-of-love-k",
-    "Song": "One Year of Love - K",
-    "Chords": "C     G/B     Am     F      G <br />Refrão:     Am      Em      (3x)      F      G       F      G"
-  },
-  {
-    "ID": "too-much-love-will-kill-you",
-    "Song": "Too Much Love Will Kill You",
-    "Chords": "Intro: G     D    C    (2x) <br />Versos:     G    CG     Em      D      C       Am     Em     Am     Em       D <br />Refrão:      G     C     Em    D (2x)     G      C     D      D#dim    G C D G"
-  },
-  {
-    "ID": "the-story-k",
-    "Song": "The Story - K",
-    "Chords": "A     E     F#     D"
-  },
-  {
-    "ID": "price-tag",
-    "Song": "Price Tag",
-    "Chords": "E    G#m    C#m     A"
-  },
-  {
-    "ID": "its-my-life-bon-jovi",
-    "Song": "It’s My Life - Bon Jovi",
-    "Chords": "C#m     A     B     F#m <br />Refrão:     C#m     A     E     B <br />C#m     A      B"
-  },
-  {
-    "ID": "sweet-caroline",
-    "Song": "Sweet Caroline",
-    "Chords": "F    Bb    F    C <br />Ponte: F    Bb    C    Bb <br />Refrão: F    Bb    C"
-  },
-  {
-    "ID": "crazy-little-thing-k",
-    "Song": "Crazy Little Thing - K",
-    "Chords": "Versos: E     A     D     A <br />Ponte:     A     D     A     C    F#   B <br />(E Eb D B Bb A)   B    E"
+    "Chords": "Intro: C     F (2x) <br />Versos: C    G     Am    G     F    C     Am    G <br />Refrão: Dm    G    C    Am",
+    "Lyrics": "",
+    "Tipo": ""
   },
   {
     "ID": "shallow",
     "Song": "Shallow",
-    "Chords": "Versos: E    D/F#   G    C    G   D/F# <br />Refrão:     Am     D/F#   G    D   Em <br />Outro:    Bm     D     A     E Bm    D    A"
+    "Chords": "E    D/F#   G    C    G   D/F# <br />Refrão:     Am     D/F#   G    D   Em <br />Outro:    Bm     D     A     E Bm    D    A",
+    "Lyrics": "",
+    "Tipo": "8beat 94"
+  },
+  {
+    "ID": "cant-help-falling-in-love",
+    "Song": "Can’t Help Falling in Love",
+    "Chords": "Estr: AAB AB A <br /> <br />Intro: <br />F      G    Am    Dm     C    G     C (G) <br /> <br />Verses: <br />C     Em    Am     F     Em      G <br />F      G    Am    Dm     C    G     C (G) <br /> <br />Ponte: <br />Em     B7    (3x)    E   A7   Dm    G7 <br /> <br />",
+    "Lyrics": "Take my hand <br />Take my whole life too <br />For I can't help <br />Falling in love with you",
+    "Tipo": "billy 60"
+  },
+  {
+    "ID": "sweet-caroline",
+    "Song": "Sweet Caroline *",
+    "Chords": "Intro: D (guitar theme) <br />G    C    G    D <br />Ponte: G    C    D    C <br />Refrão: G    C    D",
+    "Lyrics": "",
+    "Tipo": "billy 125"
+  },
+  {
+    "ID": "crazy-little-thing-called-love",
+    "Song": "Crazy Little Thing Called Love",
+    "Chords": "Versos: E     A     D     A <br />Ponte:     A     D     A     C    F#   B <br />(E Eb D B Bb A)   B    E",
+    "Lyrics": "",
+    "Tipo": "billy 170"
+  },
+  {
+    "ID": "put-your-head-on-sholder",
+    "Song": "Put your Head on Sholder *",
+    "Chords": "Estr: I AAB AA <br /> <br />Versos: <br />A    F#m    Bm    E7(9-) <br />A    D    A <br /> <br />Ponte: <br />E    A    E    A <br />G#7     C#m7    B7    E <br /> <br />",
+    "Lyrics": "... baby <br />... show me <br /> <br />... baby <br />... maybe <br />... You and I will fall in love <br /> <br />...baby <br />... tell me <br />... Tell me that you love me too",
+    "Tipo": "billy 75"
+  },
+  {
+    "ID": "only-you",
+    "Song": "Only You",
+    "Chords": "Intro:  B Bb B <br />Versos:  E...  G#...   C#m ... <br />E7...  A...   B (Am)... E  (G#m) <br />C#m...  F#7...   B    Bb    B",
+    "Lyrics": "",
+    "Tipo": "billy 80"
+  },
+  {
+    "ID": "hallelujah",
+    "Song": "Hallelujah",
+    "Chords": "F     Dm    (2x)     Bb    C    F     C <br />Refrão: F    Dm    (2x)    F   C   F    Dm <br />Outro:   G    Em    (2x)    C   D    G    D <br />G    C   D    Em    C    D    B7    Em <br />C    Em     C      G    D    (G)",
+    "Lyrics": "",
+    "Tipo": "blues 120"
   },
   {
     "ID": "to-make-you-feel-my-love",
     "Song": "To Make You Feel My Love",
-    "Chords": "Versos: B     F#     A     E     Em     B     C#7    F#     B <br />Refrão:  E    B     D#7    E    B    C#7    F#7"
+    "Chords": "Versos: B     F#     A     E     Em     B     C#7    F#     B <br />Refrão:  E    B     D#7    E    B    C#7    F#7",
+    "Lyrics": "",
+    "Tipo": ""
   },
   {
-    "ID": "i-dont-want-to-miss-a-thing",
-    "Song": "I Don’t Want to Miss a Thing",
-    "Chords": "(malha) Bm    C#m     E (2x) <br />Verse: D      D/C#    Bm     G     D/F#    Em    A (2x) <br />D/F#    G     A <br />Refrão: D    A/C#     Em     G     A4 <br />Ponte: C    G    Bb    F    C     G     Bb     A"
+    "ID": "we-belong-together",
+    "Song": "We Belong Together",
+    "Chords": "Estr: I AA B A <br /> <br />Intro: <br />G    Em    Am   D7 <br /> <br />Versos: <br />G    Em    Am   D7 (G) <br /> <br />Ponte: <br />C     Cm    G     C    Cm     A7    D7",
+    "Lyrics": "",
+    "Tipo": "blues 130"
   },
   {
-    "ID": "zombie",
-    "Song": "Zombie",
-    "Chords": "E     C      G       D/F#"
+    "ID": "the-great-pretender",
+    "Song": "The Great Pretender",
+    "Chords": "Estr: AA B A C <br /> <br />Intro: G   C   D    EB  D7 <br /> <br />Versos: <br />G     D7    G     G7 <br />C    C6/9  G    G7 <br />C      D/C     G     C <br />G      D7      G     D7 <br /> <br />Ponte: <br />C      C7      G    G7 <br />C      Am       G        D7    Dsus4/7 <br /> <br />Coda: <br />C      D/C      G/B      C     C#º      G     D7    B7    C    C#º    G      D7      G",
+    "Lyrics": "",
+    "Tipo": "blues 160"
+  },
+  {
+    "ID": "i-just-wanna-make-love-to-you",
+    "Song": "I Just Wanna Make Love to You",
+    "Chords": "Estr: AAB AB ABA, <br />(blues em A)",
+    "Lyrics": "",
+    "Tipo": "blues 160"
+  },
+  {
+    "ID": "trouble",
+    "Song": "Trouble",
+    "Chords": "Estr: AB AB, <br />(blues em D)",
+    "Lyrics": "",
+    "Tipo": "blues 160"
+  },
+  {
+    "ID": "whats-up",
+    "Song": "What’s Up?",
+    "Chords": "A       Bm       D        A",
+    "Lyrics": "",
+    "Tipo": "pop 70"
+  },
+  {
+    "ID": "unchained-melody",
+    "Song": "Unchained Melody",
+    "Chords": "Estr: AAB C AAB <br /> <br />CAPO 1  <br />Intro: C <br /> <br />Verses: <br />C    Am    F     G <br />C     Am     G (2x) <br />C    G    Am   Em <br />F     G     C    C7 <br /> <br />Bridge: <br />F     G     F    Eb    F   G    C (2x)",
+    "Lyrics": "",
+    "Tipo": "blues 130"
+  },
+  {
+    "ID": "time-after-time",
+    "Song": "Time After Time",
+    "Chords": "F  G  Em  C (2x) <br />Versos: Dm/C    C    (repete) <br />F   G      Em   F    G     Em      F   G      Em  F     F    C    Refrão: G     Am     F   G      C",
+    "Lyrics": "",
+    "Tipo": "pop 100"
+  },
+  {
+    "ID": "one-year-of-love-k",
+    "Song": "One Year of Love - K",
+    "Chords": "C     G/B     Am     F      G <br />Refrão:     Am      Em      (3x)      F      G       F      G",
+    "Lyrics": "",
+    "Tipo": ""
+  },
+  {
+    "ID": "over-the-rainbow",
+    "Song": "Over the Rainbow",
+    "Chords": "Estr: A A B A C <br /> <br />Intro/Verses: <br />A     C#m    Dmaj7      C#m     Bm     A     Bm7 E7     A <br /> <br />Ponte: <br />A      Bm      E    A      B      E7",
+    "Lyrics": "",
+    "Tipo": ""
+  },
+  {
+    "ID": "monkey-song-wanna-be-like-you",
+    "Song": "Monkey song - wanna be like you",
+    "Chords": "Estr: II AA BB AA SS BBB <br /> <br />Intro/Chorus: F    D7    G7     C7   F   C7 <br />Verses: Dm   A",
+    "Lyrics": "",
+    "Tipo": "country 110"
+  },
+  {
+    "ID": "country-roads",
+    "Song": "Country Roads",
+    "Chords": "Intro (guitar): <br />D (2 compassos) <br />Versos: <br />D     Bm     A      G    D <br />Refrão: <br />D     A    Bm    G <br />D   A   G    D <br />Ponte: <br />Bm   A   D <br />G    D    A <br />Bm    C     G     D    A     A7",
+    "Lyrics": "",
+    "Tipo": "country 80"
+  },
+  {
+    "ID": "house-of-the-rising-sun",
+    "Song": "House of the Rising Sun",
+    "Chords": "Estr: I AB (6x) <br /> <br />Intro (guitar) <br /> <br />Verses: <br />Am    C    D    F <br />Am     C    E    E <br />Am    C   D    F <br />Am    E    Am     E",
+    "Lyrics": "",
+    "Tipo": "country 90"
+  },
+  {
+    "ID": "the-story",
+    "Song": "The Story",
+    "Chords": "CAPO1 <br /> <br />A    E    F#m    D",
+    "Lyrics": "",
+    "Tipo": "rock 100"
   },
   {
     "ID": "have-you-ever-seen-the-rain",
     "Song": "Have You Ever Seen The Rain",
-    "Chords": "Intro: Am    F    C <br />Versos: C    G     C <br />Refrão: F    G     C"
+    "Chords": "Intro: Am    F    C <br />Versos: C    G     C      Refrão: F    G     C",
+    "Lyrics": "",
+    "Tipo": "pop 120"
   },
   {
-    "ID": "bohemian-rapsody",
-    "Song": "Bohemian Rapsody",
-    "Chords": "A    F#m    Bm    E7 <br />A     F#m      Bm     F# <br />D       A/C#      Bm     Em     C#       A7 <br />D       A/C#     Bm      Gm       D"
+    "ID": "price-tag",
+    "Song": "Price Tag",
+    "Chords": "E    G#m    C#m     A",
+    "Lyrics": "",
+    "Tipo": "pop 90"
   },
   {
-    "ID": "sweet-dreams-seven-nation",
-    "Song": "Sweet Dreams + Seven Nation",
-    "Chords": "(inicio seven nation 2 versos) <br />Cm     Ab    G <br />sweet dreams 2 versos"
+    "ID": "call-me",
+    "Song": "Call Me",
+    "Chords": "Intro/Refrão:     Am      C       Dm      F <br /> <br />Versos: Am    F (3x)     Dm     E    (2x) <br /> <br />Refrão:     Am      C       Dm      F <br /> <br />Ponte:  Bm      F#m  (2x)       C      G      Am       F       Dm       E",
+    "Lyrics": "",
+    "Tipo": "poprock 140"
   },
   {
-    "ID": "someone-like-you",
-    "Song": "Someone Like You",
-    "Chords": "Versos:    A     C#m/G#     F#m     D <br />Ponte:    E      F#m     D    D <br />Refrão:     A     E     F#m  D <br />Outro: Bm    F#m/C#    D    D Bm   F#m/C#   D    E"
+    "ID": "mamamia",
+    "Song": "Mamamia",
+    "Chords": "Versos: D     G <br />Ponte:      D  ....    G       A      GDA <br />Refrão:     D     G      (repete) <br />D    A     Bm     A     G      A",
+    "Lyrics": "",
+    "Tipo": "70soul 120"
   }
 ]
