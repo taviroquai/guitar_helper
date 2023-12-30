@@ -20,7 +20,6 @@
 
 	const unsubscribeSort = sortValue.subscribe((value) => {
 		sortType = value;
-		console.log(value, sortType);
 		sortedSongs = songs.sort((a, b) => (a[value] < b[value] ? -1 : 1));
 	});
 	onDestroy(unsubscribeSort);

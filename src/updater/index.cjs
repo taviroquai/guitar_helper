@@ -28,6 +28,7 @@ function parseItem(item) {
     Chords,
     Lyrics,
     Tipo: item.Tipo,
+    Ordem: Number(item.Ordem),
   }
 }
 
